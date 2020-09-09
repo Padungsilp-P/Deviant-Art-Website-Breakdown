@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@600&display=swap');
+*{
+    padding: 20px;
+    background: black;
+    text-align: center;
+    font-family: 'Grandstander', cursive;
+}
+img{
+    height: 80%;
+    width: auto;
+}
+h1{font-size: 6vh; color: white;}
+h2{font-size: 4vh; color: #00e59b;}
+h3{font-size: 2vh; color: white;}
